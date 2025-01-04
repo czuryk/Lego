@@ -1,6 +1,7 @@
 # BLE Lib
 # Mike Sevbo 2024
 # version 0.3
+# Supports Lego Hubs Invenror / Spike Prime
 
 import bluetooth
 import random
