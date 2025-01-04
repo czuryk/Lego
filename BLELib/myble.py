@@ -26,7 +26,7 @@ _FLAG_WRITE_WRITE_NO_RESPONSE_NOTIFY = const(0x001C)
 hub_type = hub.info().get("product_variant")
 if (hub_type == 1):
     print("Inventor mode")
-    from mindstorms import MSHub, Motor, ColorSensor, DistanceSensor
+    from mindstorms import MSHub
 
     hubprime = MSHub()
     _IRQ_GATTS_WRITE = 3
@@ -44,7 +44,7 @@ if (hub_type == 1):
     _IRQ_GATTC_INDICATE = 19
 else:
     print("Spike mode")
-    from spike import PrimeHub, Motor, ColorSensor, DistanceSensor
+    from spike import PrimeHub
 
     hubprime = PrimeHub()
     """
