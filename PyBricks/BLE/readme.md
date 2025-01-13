@@ -53,3 +53,9 @@
 <p>Please note that the first launch of the Android application might unexpectedly crash due to an incomplete implementation of the permission request logic.</p>
 
 <p>To resolve this, locate the application in your device's app settings and manually grant the necessary permissions for BLE functionality or do this in permission request popup's. This step is required only once.</p>
+
+### Connection to Android Smartphone
+
+Connecting to an Android smartphone is only possible in the following cases:  
+1. The hub is not already connected to a computer or another device.  
+2. The program on the hub is not currently running.  
