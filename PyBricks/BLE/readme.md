@@ -5,19 +5,22 @@
     <p>
         Since Pybricks provides its own BLE connection implementation, this project includes all the necessary functionality.
     </p>
+    <p>
+            This approach leverages this recommended method (https://pybricks.com/projects/tutorials/wireless/hub-to-device/pc-communication/) to implement the connection to the hub using BLE.
+    </p>
     <h2>Project Structure</h2>
     <p>The test project consists of three subfolders:</p>
     <ol>
         <li>
             <strong>Sample Android Application:</strong>  
-            Already allows controlling custom LEGO models using joysticks.
+            Demo app allows controlling custom LEGO models using joysticks.
         </li>
         <li>
             <strong>Test Pybricks Program:</strong>  
             Offers basic functionality for sending and receiving data.
         </li>
         <li>
-            <strong>Car Program:</strong>  
+            <strong>PyBricks Car Program:</strong>  
             Manages throttle, steering, and a distance sensor, while also transmitting hub parameters such as voltage and gyroscope data.
         </li>
     </ol>
@@ -36,4 +39,13 @@
     </a>
 </div>
 <br>
+    <p>
+        Please make your attention, that the first run of this app 
+    </p>
 <a href="https://youtube.com/shorts/6E0ajDd5fnM">https://youtube.com/shorts/6E0ajDd5fnM</a>
+
+<h2>Important Note</h2>
+
+<p>Please note that the first launch of the Android application might unexpectedly crash due to an incomplete implementation of the permission request logic.</p>
+
+<p>To resolve this, locate the application in your device's app settings and manually grant the necessary permissions for BLE functionality or do this in permission request popup's. This step is required only once.</p>
