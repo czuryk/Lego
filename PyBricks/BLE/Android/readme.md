@@ -20,6 +20,12 @@
             Turn the Android smartphone to fully functional GATT server. This allows other GATT client to establish a connection to smartphone.
             <strong>Currently unsupported function with PyBricks firmware.</strong>
         </li>
+        <li>
+            The model can be controlled using two virtual joysticks. Additional buttons are currently disabled to limit the amount of data sent to the model.
+        </li>
+        <li>
+            The hub telemetry consists of the hub's voltage, gyroscope data, and distance sensor readings. The data from the distance sensor is displayed as a progress bar.
+        </li>
     </ol>
 
 <h2>Android demo app screenshot</h2>
