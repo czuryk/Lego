@@ -35,3 +35,5 @@
         <img src="https://img.youtube.com/vi/6E0ajDd5fnM/0.jpg" alt="Watch the demo" />
     </a>
 </div>
+<br>
+<a href="https://youtube.com/shorts/6E0ajDd5fnM">https://youtube.com/shorts/6E0ajDd5fnM</a>
