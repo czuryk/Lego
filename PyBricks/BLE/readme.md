@@ -1,6 +1,6 @@
 <h1>Pybricks Android remote control</h1>
 <p>
-        This example includes a sample Android application that connects to a LEGO Hub running Pybricks firmware.
+        This example includes a sample Android application that connects to a LEGO Hub (Inventor or Spike Prime) running Pybricks firmware.
     </p>
     <p>
         Since Pybricks provides its own BLE connection implementation, this project includes all the necessary functionality.
