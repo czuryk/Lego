@@ -32,6 +32,12 @@
         This implementation enables the collection, storage, and analysis of telemetry data from the hub and sensors, supporting more advanced logic and functionality.
     </p>
 
+<h2>Android demo app screenshot</h2>
+<div align="center">
+        <img src="https://github.com/czuryk/Lego/blob/main/PyBricks/BLE/Android/Screenshot_20250113_023219_BLEcontrol.jpg" />
+</div>
+<br>
+
 <h2>Watch the demo on YouTube</h2>
 <div align="center">
     <a href="https://youtube.com/shorts/6E0ajDd5fnM">
@@ -39,10 +45,8 @@
     </a>
 </div>
 <br>
-    <p>
-        Please make your attention, that the first run of this app 
-    </p>
-<a href="https://youtube.com/shorts/6E0ajDd5fnM">https://youtube.com/shorts/6E0ajDd5fnM</a>
+
+<p><a href="https://youtube.com/shorts/6E0ajDd5fnM">https://youtube.com/shorts/6E0ajDd5fnM</a></p>
 
 <h2>Important Note</h2>
 
