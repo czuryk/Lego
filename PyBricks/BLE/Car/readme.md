@@ -1,6 +1,6 @@
 ### Project Overview
 
-This example includes an implementation of a program to control a LEGO car, using an Android smartphone as the joystick.  
+This example includes an implementation of a program to control a car with Lego Hub (Inventor or Spike Prime Hub with PyBrick firmware on board), using an Android smartphone as the joystick.
 
 You can find the sample Android control application [here](https://github.com/czuryk/Lego/tree/main/PyBricks/BLE/Android).
 
