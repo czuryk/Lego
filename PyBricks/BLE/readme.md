@@ -13,7 +13,7 @@
     <ol>
         <li>
             <strong>Sample Android Application:</strong>  
-            Demo app allows controlling custom LEGO models using joysticks.
+            Demo app allows controlling custom LEGO models using virtual joysticks.
         </li>
         <li>
             <strong>Test Pybricks Program:</strong>  
