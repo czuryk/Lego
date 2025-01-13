@@ -28,3 +28,10 @@
     <p>
         This implementation enables the collection, storage, and analysis of telemetry data from the hub and sensors, supporting more advanced logic and functionality.
     </p>
+
+<h2>Watch the demo on YouTube</h2>
+<div align="center">
+    <a href="https://youtube.com/shorts/6E0ajDd5fnM">
+        <img src="https://img.youtube.com/vi/6E0ajDd5fnM/0.jpg" alt="Watch the demo" />
+    </a>
+</div>
